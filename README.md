@@ -1,4 +1,4 @@
-# Cube-Surfer-Clone
+# Cube Surfer! Clone
 Unity 2020.3.25f1
 
 
